@@ -1,0 +1,88 @@
+
+.top-container {
+    font-family: Sacremento;
+    color: #a679ff;
+    background-color: #F5EEDD;
+}
+
+.img-box {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.top-context {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.middle-container {
+    background-color: #F5EEDD;
+    display: grid;
+    justify-content: center;
+    align-self: center;
+    text-align: center;
+}
+
+.img1 {
+    margin-top: 50px;
+    border-radius: 50%;
+}
+
+h1 {
+    color: #a679ff;
+    font-family: sans-serif;
+    margin-top: 70px;
+}
+
+.div-midh2{
+    display: grid;
+    justify-content: center;
+}
+
+.midh2 {
+    font-family: sans-serif;
+    width: 496px;
+    font-size: larger;
+    font-weight: 350;
+    padding: 40px;
+    margin-top: 30px;
+}
+
+.myskills {
+    color: #a679ff;
+    font-family: sans-serif;
+    margin-top: 40px;
+}
+
+.parent-midcontainer {
+    display: flex;
+    text-align: left;
+    gap: 100px;
+}
+
+.bottom-container{
+    background-color: #F5EEDD;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.copyright {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-weight: 200;
+    margin-bottom: auto;
+    padding-bottom: 20px;
+}

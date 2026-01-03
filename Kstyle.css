@@ -1,0 +1,39 @@
+*{
+    background-color: #03050a;
+    color: #ffffff;
+}
+
+h2,h3,h4 {
+    color: #a679ff;
+    font-family: sans-serif;
+}
+
+.hobby {
+    background-color: #03050a;
+    color: #ffffff;
+}
+
+body ul li {
+    color: aquamarine;
+    font-family: sans-serif;
+    line-height: 1.75;
+}
+
+body ol li{
+    color: aquamarine;
+    font-family: sans-serif;
+    line-height: 1.75;
+}
+
+p {
+    color: aquamarine;
+    font-family: sans-serif;
+    line-height: 1.75;
+}
+
+#img {
+    border-radius: 30%;
+    width: 20%;
+    height: 20%;
+}
+
